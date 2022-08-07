@@ -1,1 +1,2 @@
-print("Hola Mundo Francisco Cabañas")
+print("Hola Mundo")
+print("Francisco Cabañas")
